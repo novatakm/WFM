@@ -1,0 +1,6 @@
+.DS_Store
+tmp/
+data/
+.envrc
+__pycache__
+notebook/

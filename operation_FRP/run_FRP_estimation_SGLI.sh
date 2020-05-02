@@ -47,7 +47,7 @@ do
     
     out_dir=$GISDBASE/../INTMED/$( basename $0 | sed 's:.sh$::g' )/GC1SG1_${obs_date}D_${TILE}
     mkdir -p $out_dir
-    for size in 5 7 9 11
+    for size in 11
     do
         for e in 3 2 1
         do
